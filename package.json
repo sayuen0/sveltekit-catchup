@@ -27,5 +27,9 @@
 		"typescript": "^4.9.3",
 		"vite": "^4.0.0"
 	},
-	"type": "module"
+	"type": "module",
+	"main": "index.js",
+	"repository": "git@github.com:sayuen0/sveltekit-catchup.git",
+	"author": "sayuen0 <sayuen0@gmail.com>",
+	"license": "MIT"
 }
